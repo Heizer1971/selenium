@@ -3,15 +3,14 @@
  xmlns:em="http://www.mozilla.org/2004/em-rdf#">
     <Description about="urn:mozilla:install-manifest">
         <em:id>{a6fd85ed-e919-4a43-a5af-8da18bda539f}</em:id>
-        <em:name>Selenium IDE</em:name>
-        <em:version>2.9.0</em:version>
-        <em:creator>Adam Goucher</em:creator>
-        <em:developer>Samit Badle</em:developer>
-        <em:developer>Dave Hunt</em:developer>
-        <em:description>Selenium IDE</em:description>
+        <em:name>Selenium IDE Own Build</em:name>
+        <em:version>2.9.666</em:version>
+        <em:creator>René Thiemann</em:creator>
+        <em:developer>René Thiemann</em:developer>
+        <em:developer>René Ruhland</em:developer>
+        <em:description>Selenium IDE Own Build</em:description>
         <em:type>32</em:type>
         <em:homepageURL>http://seleniumhq.org/projects/ide</em:homepageURL>
-        <em:updateURL>https://addons.seleniumhq.org/ide-multi/update.rdf</em:updateURL>
 
         <em:targetApplication>
           <Description>
